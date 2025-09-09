@@ -12,3 +12,6 @@ Repository structure and file meanings.
 3. Each repository contains a Convert.com Deployments folder. 
 3.1 These are deployments that are currently active on convert.com
 3.2 Ai/copilot should ask if we need to include these deployments in new ab test builds
+
+
+4. Always ask the preson generating a prompts to include the current controls html taken from inpecting elements
