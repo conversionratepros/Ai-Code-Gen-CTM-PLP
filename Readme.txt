@@ -15,3 +15,5 @@ Repository structure and file meanings.
 
 
 4. Always ask the preson generating a prompts to include the current controls html taken from inpecting elements
+5. ALways ask the person to include the user story
+6. Always ask the user if they should use a pink or yellow background
